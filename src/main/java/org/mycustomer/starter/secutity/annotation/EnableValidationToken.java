@@ -1,8 +1,6 @@
-package org.validation.secutity.config;
+package org.mycustomer.starter.secutity.annotation;
 
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Import;
-import org.validation.secutity.config.EnableValidationTokenImporter;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
